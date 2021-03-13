@@ -5,7 +5,7 @@
     - name: Pull srinivasmt2020062/calculator-devops-proj-image:latest
       docker_image:
         name: srinivasmt2020062/calculator-devops-proj-image:latest
-        #source: pull
+        source: pull
 #    - name: Copy jar file to home directory
 #      copy:
 #        src: ./target/Lab3Junit-1.0-SNAPSHOT.jar
