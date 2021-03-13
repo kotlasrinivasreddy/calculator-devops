@@ -1,0 +1,336 @@
+2021-03-13 11:56:50.428 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 3.0, 2.0
+2021-03-13 11:56:50.435 [main] INFO  Calculator - the result is: 9.0
+2021-03-13 11:56:50.435 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 4.0, -2.0
+2021-03-13 11:56:50.436 [main] INFO  Calculator - the result is: 0.0625
+2021-03-13 11:56:50.437 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 0.0, 0.0
+2021-03-13 11:56:50.438 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 5.0, 5.0
+2021-03-13 11:56:50.439 [main] INFO  Calculator - the result is: 3125.0
+2021-03-13 11:56:50.439 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 3.0, 5.0
+2021-03-13 11:56:50.440 [main] INFO  Calculator - the result is: 243.0
+2021-03-13 11:56:50.440 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 0.0, 0.0
+2021-03-13 11:56:50.441 [main] INFO  Calculator - [calculating natural logarithm], given num is : 10.0
+2021-03-13 11:56:50.441 [main] INFO  Calculator - the natural log result is: 2.302585092994046
+2021-03-13 11:56:50.441 [main] INFO  Calculator - [calculating natural logarithm], given num is : 0.0
+2021-03-13 11:56:50.441 [main] INFO  Calculator - [calculating natural logarithm], given num is : -7.0
+2021-03-13 11:56:50.442 [main] INFO  Calculator - [calculating natural logarithm], given num is : 4.0
+2021-03-13 11:56:50.443 [main] INFO  Calculator - the natural log result is: 1.3862943611198906
+2021-03-13 11:56:50.443 [main] INFO  Calculator - [calculating natural logarithm], given num is : 45.0
+2021-03-13 11:56:50.443 [main] INFO  Calculator - the natural log result is: 3.8066624897703196
+2021-03-13 11:56:50.443 [main] INFO  Calculator - [calculating natural logarithm], given num is : -4.0
+2021-03-13 11:56:50.447 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 11:56:50.449 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 11:56:50.449 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 11:56:50.449 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 11:56:50.449 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 11:56:50.450 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 11:56:50.450 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 11:56:50.450 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 11:56:50.450 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 11:56:50.450 [main] INFO  Calculator - [calculating factorial], given num is : -10
+2021-03-13 11:56:50.451 [main] INFO  Calculator - factorial doesn't exist for negative numbers
+2021-03-13 11:56:50.451 [main] INFO  Calculator - [calculating factorial], given num is : 7
+2021-03-13 11:56:50.452 [main] INFO  Calculator - [calculating factorial], given num is : 6
+2021-03-13 11:56:50.452 [main] INFO  Calculator - [calculating factorial], given num is : 5
+2021-03-13 11:56:50.452 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 11:56:50.452 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 11:56:50.453 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 11:56:50.453 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 11:56:50.453 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 11:56:50.454 [main] INFO  Calculator - [calculating factorial], given num is : 5
+2021-03-13 11:56:50.454 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 11:56:50.454 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 11:56:50.454 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 11:56:50.454 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 11:56:50.454 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 11:56:50.456 [main] INFO  Calculator - [calculating factorial], given num is : -25
+2021-03-13 11:56:50.457 [main] INFO  Calculator - factorial doesn't exist for negative numbers
+2021-03-13 11:56:50.459 [main] INFO  Calculator - [calculating square root], given num is: 25.0
+2021-03-13 11:56:50.460 [main] INFO  Calculator - the square root is: 5.0
+2021-03-13 11:56:50.460 [main] INFO  Calculator - [calculating square root], given num is: 0.0
+2021-03-13 11:56:50.460 [main] INFO  Calculator - the square root is: 0.0
+2021-03-13 11:56:50.461 [main] INFO  Calculator - [calculating square root], given num is: -5.0
+2021-03-13 11:56:50.463 [main] INFO  Calculator - [calculating square root], given num is: 89.0
+2021-03-13 11:56:50.464 [main] INFO  Calculator - the square root is: 9.433981132056603
+2021-03-13 11:56:50.464 [main] INFO  Calculator - [calculating square root], given num is: 0.0
+2021-03-13 11:56:50.470 [main] INFO  Calculator - the square root is: 0.0
+2021-03-13 11:56:50.471 [main] INFO  Calculator - [calculating square root], given num is: -5.0
+2021-03-13 12:01:18.585 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 3.0, 2.0
+2021-03-13 12:01:18.590 [main] INFO  Calculator - the result is: 9.0
+2021-03-13 12:01:18.591 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 4.0, -2.0
+2021-03-13 12:01:18.592 [main] INFO  Calculator - the result is: 0.0625
+2021-03-13 12:01:18.592 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 0.0, 0.0
+2021-03-13 12:01:18.594 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 5.0, 5.0
+2021-03-13 12:01:18.594 [main] INFO  Calculator - the result is: 3125.0
+2021-03-13 12:01:18.595 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 3.0, 5.0
+2021-03-13 12:01:18.595 [main] INFO  Calculator - the result is: 243.0
+2021-03-13 12:01:18.595 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 0.0, 0.0
+2021-03-13 12:01:18.597 [main] INFO  Calculator - [calculating natural logarithm], given num is : 10.0
+2021-03-13 12:01:18.597 [main] INFO  Calculator - the natural log result is: 2.302585092994046
+2021-03-13 12:01:18.598 [main] INFO  Calculator - [calculating natural logarithm], given num is : 0.0
+2021-03-13 12:01:18.598 [main] INFO  Calculator - [calculating natural logarithm], given num is : -7.0
+2021-03-13 12:01:18.599 [main] INFO  Calculator - [calculating natural logarithm], given num is : 4.0
+2021-03-13 12:01:18.601 [main] INFO  Calculator - the natural log result is: 1.3862943611198906
+2021-03-13 12:01:18.602 [main] INFO  Calculator - [calculating natural logarithm], given num is : 45.0
+2021-03-13 12:01:18.602 [main] INFO  Calculator - the natural log result is: 3.8066624897703196
+2021-03-13 12:01:18.603 [main] INFO  Calculator - [calculating natural logarithm], given num is : -4.0
+2021-03-13 12:01:18.603 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 12:01:18.604 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:01:18.605 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:01:18.605 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:01:18.606 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:01:18.606 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:01:18.606 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:01:18.606 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:01:18.606 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:01:18.606 [main] INFO  Calculator - [calculating factorial], given num is : -10
+2021-03-13 12:01:18.607 [main] INFO  Calculator - factorial doesn't exist for negative numbers
+2021-03-13 12:01:18.607 [main] INFO  Calculator - [calculating factorial], given num is : 7
+2021-03-13 12:01:18.608 [main] INFO  Calculator - [calculating factorial], given num is : 6
+2021-03-13 12:01:18.610 [main] INFO  Calculator - [calculating factorial], given num is : 5
+2021-03-13 12:01:18.610 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 12:01:18.610 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:01:18.610 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:01:18.611 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:01:18.611 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:01:18.611 [main] INFO  Calculator - [calculating factorial], given num is : 5
+2021-03-13 12:01:18.611 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 12:01:18.612 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:01:18.613 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:01:18.614 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:01:18.615 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:01:18.617 [main] INFO  Calculator - [calculating factorial], given num is : -25
+2021-03-13 12:01:18.617 [main] INFO  Calculator - factorial doesn't exist for negative numbers
+2021-03-13 12:01:18.619 [main] INFO  Calculator - [calculating square root], given num is: 25.0
+2021-03-13 12:01:18.620 [main] INFO  Calculator - the square root is: 5.0
+2021-03-13 12:01:18.621 [main] INFO  Calculator - [calculating square root], given num is: 0.0
+2021-03-13 12:01:18.621 [main] INFO  Calculator - the square root is: 0.0
+2021-03-13 12:01:18.622 [main] INFO  Calculator - [calculating square root], given num is: -5.0
+2021-03-13 12:01:18.624 [main] INFO  Calculator - [calculating square root], given num is: 89.0
+2021-03-13 12:01:18.625 [main] INFO  Calculator - the square root is: 9.433981132056603
+2021-03-13 12:01:18.628 [main] INFO  Calculator - [calculating square root], given num is: 0.0
+2021-03-13 12:01:18.628 [main] INFO  Calculator - the square root is: 0.0
+2021-03-13 12:01:18.629 [main] INFO  Calculator - [calculating square root], given num is: -5.0
+2021-03-13 12:29:46.998 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 3.0, 2.0
+2021-03-13 12:29:47.018 [main] INFO  Calculator - the result is: 9.0
+2021-03-13 12:29:47.018 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 4.0, -2.0
+2021-03-13 12:29:47.018 [main] INFO  Calculator - the result is: 0.0625
+2021-03-13 12:29:47.019 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 0.0, 0.0
+2021-03-13 12:29:47.020 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 5.0, 5.0
+2021-03-13 12:29:47.021 [main] INFO  Calculator - the result is: 3125.0
+2021-03-13 12:29:47.022 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 3.0, 5.0
+2021-03-13 12:29:47.022 [main] INFO  Calculator - the result is: 243.0
+2021-03-13 12:29:47.023 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 0.0, 0.0
+2021-03-13 12:29:47.024 [main] INFO  Calculator - [calculating natural logarithm], given num is : 10.0
+2021-03-13 12:29:47.024 [main] INFO  Calculator - the natural log result is: 2.302585092994046
+2021-03-13 12:29:47.025 [main] INFO  Calculator - [calculating natural logarithm], given num is : 0.0
+2021-03-13 12:29:47.025 [main] INFO  Calculator - [calculating natural logarithm], given num is : -7.0
+2021-03-13 12:29:47.026 [main] INFO  Calculator - [calculating natural logarithm], given num is : 4.0
+2021-03-13 12:29:47.027 [main] INFO  Calculator - the natural log result is: 1.3862943611198906
+2021-03-13 12:29:47.027 [main] INFO  Calculator - [calculating natural logarithm], given num is : 45.0
+2021-03-13 12:29:47.027 [main] INFO  Calculator - the natural log result is: 3.8066624897703196
+2021-03-13 12:29:47.028 [main] INFO  Calculator - [calculating natural logarithm], given num is : -4.0
+2021-03-13 12:29:47.029 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 12:29:47.029 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:29:47.029 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:29:47.030 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:29:47.030 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:29:47.030 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:29:47.031 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:29:47.031 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:29:47.031 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:29:47.032 [main] INFO  Calculator - [calculating factorial], given num is : -10
+2021-03-13 12:29:47.032 [main] INFO  Calculator - factorial doesn't exist for negative numbers
+2021-03-13 12:29:47.034 [main] INFO  Calculator - [calculating factorial], given num is : 7
+2021-03-13 12:29:47.035 [main] INFO  Calculator - [calculating factorial], given num is : 6
+2021-03-13 12:29:47.035 [main] INFO  Calculator - [calculating factorial], given num is : 5
+2021-03-13 12:29:47.036 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 12:29:47.036 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:29:47.036 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:29:47.037 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:29:47.037 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:29:47.037 [main] INFO  Calculator - [calculating factorial], given num is : 5
+2021-03-13 12:29:47.038 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 12:29:47.038 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:29:47.038 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:29:47.038 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:29:47.039 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:29:47.039 [main] INFO  Calculator - [calculating factorial], given num is : -25
+2021-03-13 12:29:47.039 [main] INFO  Calculator - factorial doesn't exist for negative numbers
+2021-03-13 12:29:47.040 [main] INFO  Calculator - [calculating square root], given num is: 25.0
+2021-03-13 12:29:47.041 [main] INFO  Calculator - the square root is: 5.0
+2021-03-13 12:29:47.041 [main] INFO  Calculator - [calculating square root], given num is: 0.0
+2021-03-13 12:29:47.041 [main] INFO  Calculator - the square root is: 0.0
+2021-03-13 12:29:47.042 [main] INFO  Calculator - [calculating square root], given num is: -5.0
+2021-03-13 12:29:47.042 [main] INFO  Calculator - [calculating square root], given num is: 89.0
+2021-03-13 12:29:47.043 [main] INFO  Calculator - the square root is: 9.433981132056603
+2021-03-13 12:29:47.043 [main] INFO  Calculator - [calculating square root], given num is: 0.0
+2021-03-13 12:29:47.044 [main] INFO  Calculator - the square root is: 0.0
+2021-03-13 12:29:47.044 [main] INFO  Calculator - [calculating square root], given num is: -5.0
+2021-03-13 12:34:57.632 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 3.0, 2.0
+2021-03-13 12:34:57.637 [main] INFO  Calculator - the result is: 9.0
+2021-03-13 12:34:57.638 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 4.0, -2.0
+2021-03-13 12:34:57.639 [main] INFO  Calculator - the result is: 0.0625
+2021-03-13 12:34:57.639 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 0.0, 0.0
+2021-03-13 12:34:57.641 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 5.0, 5.0
+2021-03-13 12:34:57.641 [main] INFO  Calculator - the result is: 3125.0
+2021-03-13 12:34:57.642 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 3.0, 5.0
+2021-03-13 12:34:57.642 [main] INFO  Calculator - the result is: 243.0
+2021-03-13 12:34:57.642 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 0.0, 0.0
+2021-03-13 12:34:57.643 [main] INFO  Calculator - [calculating natural logarithm], given num is : 10.0
+2021-03-13 12:34:57.643 [main] INFO  Calculator - the natural log result is: 2.302585092994046
+2021-03-13 12:34:57.644 [main] INFO  Calculator - [calculating natural logarithm], given num is : 0.0
+2021-03-13 12:34:57.644 [main] INFO  Calculator - [calculating natural logarithm], given num is : -7.0
+2021-03-13 12:34:57.645 [main] INFO  Calculator - [calculating natural logarithm], given num is : 4.0
+2021-03-13 12:34:57.645 [main] INFO  Calculator - the natural log result is: 1.3862943611198906
+2021-03-13 12:34:57.645 [main] INFO  Calculator - [calculating natural logarithm], given num is : 45.0
+2021-03-13 12:34:57.645 [main] INFO  Calculator - the natural log result is: 3.8066624897703196
+2021-03-13 12:34:57.646 [main] INFO  Calculator - [calculating natural logarithm], given num is : -4.0
+2021-03-13 12:34:57.646 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 12:34:57.647 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:34:57.647 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:34:57.647 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:34:57.648 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:34:57.648 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:34:57.648 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:34:57.648 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:34:57.649 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:34:57.649 [main] INFO  Calculator - [calculating factorial], given num is : -10
+2021-03-13 12:34:57.649 [main] INFO  Calculator - factorial doesn't exist for negative numbers
+2021-03-13 12:34:57.651 [main] INFO  Calculator - [calculating factorial], given num is : 7
+2021-03-13 12:34:57.651 [main] INFO  Calculator - [calculating factorial], given num is : 6
+2021-03-13 12:34:57.652 [main] INFO  Calculator - [calculating factorial], given num is : 5
+2021-03-13 12:34:57.652 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 12:34:57.652 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:34:57.652 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:34:57.653 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:34:57.653 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:34:57.653 [main] INFO  Calculator - [calculating factorial], given num is : 5
+2021-03-13 12:34:57.654 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 12:34:57.654 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:34:57.654 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:34:57.654 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:34:57.654 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:34:57.655 [main] INFO  Calculator - [calculating factorial], given num is : -25
+2021-03-13 12:34:57.655 [main] INFO  Calculator - factorial doesn't exist for negative numbers
+2021-03-13 12:34:57.656 [main] INFO  Calculator - [calculating square root], given num is: 25.0
+2021-03-13 12:34:57.656 [main] INFO  Calculator - the square root is: 5.0
+2021-03-13 12:34:57.656 [main] INFO  Calculator - [calculating square root], given num is: 0.0
+2021-03-13 12:34:57.656 [main] INFO  Calculator - the square root is: 0.0
+2021-03-13 12:34:57.657 [main] INFO  Calculator - [calculating square root], given num is: -5.0
+2021-03-13 12:34:57.657 [main] INFO  Calculator - [calculating square root], given num is: 89.0
+2021-03-13 12:34:57.658 [main] INFO  Calculator - the square root is: 9.433981132056603
+2021-03-13 12:34:57.658 [main] INFO  Calculator - [calculating square root], given num is: 0.0
+2021-03-13 12:34:57.658 [main] INFO  Calculator - the square root is: 0.0
+2021-03-13 12:34:57.658 [main] INFO  Calculator - [calculating square root], given num is: -5.0
+2021-03-13 12:36:23.533 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 3.0, 2.0
+2021-03-13 12:36:23.538 [main] INFO  Calculator - the result is: 9.0
+2021-03-13 12:36:23.538 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 4.0, -2.0
+2021-03-13 12:36:23.539 [main] INFO  Calculator - the result is: 0.0625
+2021-03-13 12:36:23.539 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 0.0, 0.0
+2021-03-13 12:36:23.540 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 5.0, 5.0
+2021-03-13 12:36:23.541 [main] INFO  Calculator - the result is: 3125.0
+2021-03-13 12:36:23.541 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 3.0, 5.0
+2021-03-13 12:36:23.541 [main] INFO  Calculator - the result is: 243.0
+2021-03-13 12:36:23.547 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 0.0, 0.0
+2021-03-13 12:36:23.548 [main] INFO  Calculator - [calculating natural logarithm], given num is : 10.0
+2021-03-13 12:36:23.548 [main] INFO  Calculator - the natural log result is: 2.302585092994046
+2021-03-13 12:36:23.549 [main] INFO  Calculator - [calculating natural logarithm], given num is : 0.0
+2021-03-13 12:36:23.554 [main] INFO  Calculator - [calculating natural logarithm], given num is : -7.0
+2021-03-13 12:36:23.556 [main] INFO  Calculator - [calculating natural logarithm], given num is : 4.0
+2021-03-13 12:36:23.556 [main] INFO  Calculator - the natural log result is: 1.3862943611198906
+2021-03-13 12:36:23.556 [main] INFO  Calculator - [calculating natural logarithm], given num is : 45.0
+2021-03-13 12:36:23.556 [main] INFO  Calculator - the natural log result is: 3.8066624897703196
+2021-03-13 12:36:23.557 [main] INFO  Calculator - [calculating natural logarithm], given num is : -4.0
+2021-03-13 12:36:23.558 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 12:36:23.558 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:36:23.558 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:36:23.558 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:36:23.558 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:36:23.559 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:36:23.559 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:36:23.560 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:36:23.560 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:36:23.560 [main] INFO  Calculator - [calculating factorial], given num is : -10
+2021-03-13 12:36:23.560 [main] INFO  Calculator - factorial doesn't exist for negative numbers
+2021-03-13 12:36:23.561 [main] INFO  Calculator - [calculating factorial], given num is : 7
+2021-03-13 12:36:23.562 [main] INFO  Calculator - [calculating factorial], given num is : 6
+2021-03-13 12:36:23.562 [main] INFO  Calculator - [calculating factorial], given num is : 5
+2021-03-13 12:36:23.562 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 12:36:23.566 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:36:23.566 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:36:23.566 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:36:23.566 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:36:23.567 [main] INFO  Calculator - [calculating factorial], given num is : 5
+2021-03-13 12:36:23.569 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 12:36:23.569 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:36:23.569 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:36:23.570 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:36:23.570 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:36:23.570 [main] INFO  Calculator - [calculating factorial], given num is : -25
+2021-03-13 12:36:23.572 [main] INFO  Calculator - factorial doesn't exist for negative numbers
+2021-03-13 12:36:23.573 [main] INFO  Calculator - [calculating square root], given num is: 25.0
+2021-03-13 12:36:23.573 [main] INFO  Calculator - the square root is: 5.0
+2021-03-13 12:36:23.573 [main] INFO  Calculator - [calculating square root], given num is: 0.0
+2021-03-13 12:36:23.574 [main] INFO  Calculator - the square root is: 0.0
+2021-03-13 12:36:23.574 [main] INFO  Calculator - [calculating square root], given num is: -5.0
+2021-03-13 12:36:23.575 [main] INFO  Calculator - [calculating square root], given num is: 89.0
+2021-03-13 12:36:23.575 [main] INFO  Calculator - the square root is: 9.433981132056603
+2021-03-13 12:36:23.575 [main] INFO  Calculator - [calculating square root], given num is: 0.0
+2021-03-13 12:36:23.576 [main] INFO  Calculator - the square root is: 0.0
+2021-03-13 12:36:23.576 [main] INFO  Calculator - [calculating square root], given num is: -5.0
+2021-03-13 12:36:32.860 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 3.0, 2.0
+2021-03-13 12:36:32.866 [main] INFO  Calculator - the result is: 9.0
+2021-03-13 12:36:32.867 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 4.0, -2.0
+2021-03-13 12:36:32.867 [main] INFO  Calculator - the result is: 0.0625
+2021-03-13 12:36:32.867 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 0.0, 0.0
+2021-03-13 12:36:32.870 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 5.0, 5.0
+2021-03-13 12:36:32.871 [main] INFO  Calculator - the result is: 3125.0
+2021-03-13 12:36:32.871 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 3.0, 5.0
+2021-03-13 12:36:32.871 [main] INFO  Calculator - the result is: 243.0
+2021-03-13 12:36:32.872 [main] INFO  Calculator - [calculating exponentiation], given base, exp are : 0.0, 0.0
+2021-03-13 12:36:32.872 [main] INFO  Calculator - [calculating natural logarithm], given num is : 10.0
+2021-03-13 12:36:32.873 [main] INFO  Calculator - the natural log result is: 2.302585092994046
+2021-03-13 12:36:32.873 [main] INFO  Calculator - [calculating natural logarithm], given num is : 0.0
+2021-03-13 12:36:32.873 [main] INFO  Calculator - [calculating natural logarithm], given num is : -7.0
+2021-03-13 12:36:32.874 [main] INFO  Calculator - [calculating natural logarithm], given num is : 4.0
+2021-03-13 12:36:32.874 [main] INFO  Calculator - the natural log result is: 1.3862943611198906
+2021-03-13 12:36:32.874 [main] INFO  Calculator - [calculating natural logarithm], given num is : 45.0
+2021-03-13 12:36:32.875 [main] INFO  Calculator - the natural log result is: 3.8066624897703196
+2021-03-13 12:36:32.875 [main] INFO  Calculator - [calculating natural logarithm], given num is : -4.0
+2021-03-13 12:36:32.875 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 12:36:32.876 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:36:32.876 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:36:32.876 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:36:32.876 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:36:32.877 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:36:32.877 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:36:32.877 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:36:32.877 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:36:32.877 [main] INFO  Calculator - [calculating factorial], given num is : -10
+2021-03-13 12:36:32.878 [main] INFO  Calculator - factorial doesn't exist for negative numbers
+2021-03-13 12:36:32.878 [main] INFO  Calculator - [calculating factorial], given num is : 7
+2021-03-13 12:36:32.879 [main] INFO  Calculator - [calculating factorial], given num is : 6
+2021-03-13 12:36:32.879 [main] INFO  Calculator - [calculating factorial], given num is : 5
+2021-03-13 12:36:32.879 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 12:36:32.879 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:36:32.879 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:36:32.880 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:36:32.880 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:36:32.880 [main] INFO  Calculator - [calculating factorial], given num is : 5
+2021-03-13 12:36:32.880 [main] INFO  Calculator - [calculating factorial], given num is : 4
+2021-03-13 12:36:32.881 [main] INFO  Calculator - [calculating factorial], given num is : 3
+2021-03-13 12:36:32.881 [main] INFO  Calculator - [calculating factorial], given num is : 2
+2021-03-13 12:36:32.881 [main] INFO  Calculator - [calculating factorial], given num is : 1
+2021-03-13 12:36:32.881 [main] INFO  Calculator - [calculating factorial], given num is : 0
+2021-03-13 12:36:32.881 [main] INFO  Calculator - [calculating factorial], given num is : -25
+2021-03-13 12:36:32.882 [main] INFO  Calculator - factorial doesn't exist for negative numbers
+2021-03-13 12:36:32.882 [main] INFO  Calculator - [calculating square root], given num is: 25.0
+2021-03-13 12:36:32.883 [main] INFO  Calculator - the square root is: 5.0
+2021-03-13 12:36:32.883 [main] INFO  Calculator - [calculating square root], given num is: 0.0
+2021-03-13 12:36:32.883 [main] INFO  Calculator - the square root is: 0.0
+2021-03-13 12:36:32.884 [main] INFO  Calculator - [calculating square root], given num is: -5.0
+2021-03-13 12:36:32.884 [main] INFO  Calculator - [calculating square root], given num is: 89.0
+2021-03-13 12:36:32.885 [main] INFO  Calculator - the square root is: 9.433981132056603
+2021-03-13 12:36:32.885 [main] INFO  Calculator - [calculating square root], given num is: 0.0
+2021-03-13 12:36:32.885 [main] INFO  Calculator - the square root is: 0.0
+2021-03-13 12:36:32.885 [main] INFO  Calculator - [calculating square root], given num is: -5.0
